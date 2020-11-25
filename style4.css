@@ -1,0 +1,78 @@
+#glav{
+	color:black;
+	text-align: left;
+	border: solid 0px;
+	font-size: 50px;
+	box-shadow: 0px 2px 0px;
+	font-family: Constantia;
+	color:white;
+	text-shadow: 5px 3px 5px #000;
+	width: 100%;
+	background-image: url(images/fon.jpg);
+	padding-bottom: 10px;
+	padding-top: 5px;
+	margin-bottom:30px; 
+}
+#gl{
+	color:white;
+	text-decoration: none;
+}
+.left{
+	float:left;
+	padding: 0 20px 20px 0;
+	width: 288px;
+	height: 835px;
+	border:none;
+	max-width: 288px;
+	max-height:885px;
+	min-width: 288px;
+	min-height:834px;
+}
+#pr{
+	font-family: Constantia;
+	font-size: 239%;
+	border: solid 0px;
+	margin-bottom:10px; 
+    box-shadow: 0px 2px 0px;
+}
+#tex{
+	font-family: Constantia;
+	text-align: left;
+	font-size: 150%;
+	}
+	body{
+	background: #f5f5f5;
+}
+#tex3{
+	font-family: Constantia;
+	text-align: left;
+	font-size: 180%;
+}
+.right{
+	float:right;
+	width: 288px;
+	height: 682px;
+	border:none;
+	padding: 0 0 20px 20px;
+	max-width: 288px;
+	max-height: 682px;
+	min-width: 288px;
+	min-height: 682px;
+}
+#tex1{
+	font-family: Constantia;
+	text-align: left;
+	font-size: 150%;
+	box-shadow:  0px 2px 0px;
+}
+.left1{
+	float:left;
+	padding: 0 20px 20px 0;
+	width: 288px;
+	height: 827px;
+	border:none;
+	max-width: 288px;
+	max-height:827px;
+	min-width: 288px;
+	min-height:827px;
+}
